@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Bike Rental", layout="wide")
 
-day = pd.read_csv("days.csv") 
+day = pd.read_csv("dashboard/days.csv") 
 day.head()
 # Data Cleaning & Transformation
 day.drop(columns=['windspeed'], inplace=True, errors='ignore')
