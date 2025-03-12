@@ -8,7 +8,7 @@ This is a final project from Dicoding in the "Belajar Analisis Data Dengan Pytho
 1. Clone this repository
 
 ```
-git clone https://github.com/SukmaSuciyana/bikee.git
+git clone https://github.com/SukmaSuciyana/biikee.git
 ```
 
 2. Install all library
